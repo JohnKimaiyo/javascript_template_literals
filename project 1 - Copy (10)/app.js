@@ -12,7 +12,6 @@ console.log(message1);
 const secondname = "james";
 console.log(`hello'${secondname}`);
 
-
 const sum = 4 + 5;
 console.log(`The sum of 4 + 5 is ${sum}`);
 
